@@ -1,0 +1,565 @@
+{
+  "business": {
+    "name": "H&L Home Remodeling LLC",
+    "phone": "+17026123808",
+    "category": "remodeling contractor",
+    "city": "Las Vegas",
+    "state": "NV"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-trust-navy",
+      "categoryGroup": "roofing",
+      "name": "Trust Navy",
+      "recipeFile": "roofing/trust-navy.astro",
+      "colors": {
+        "primary": "#2C4563",
+        "primaryDark": "#1B2F45",
+        "primaryLight": "#D4E0ED",
+        "secondary": "#3D5A80",
+        "accent": "#3D6B5A",
+        "background": "#FFFFFF",
+        "backgroundAlt": "#2C4563",
+        "surface": "#F4F6F8",
+        "text": "#1A1A2E",
+        "textLight": "#4A5568",
+        "textOnDark": "#FFFFFF",
+        "border": "#E5E7EB"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "700",
+        "bodyFont": "Source Sans 3",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "6px",
+        "buttonRadius": "6px",
+        "cardRadius": "10px",
+        "shadowStyle": "soft"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "dark",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "balanced"
+      }
+    },
+    "recipeId": "roofing/trust-navy"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Vegas Remodeling Done Right",
+      "heroSubline": "H&L Home Remodeling delivers quality craftsmanship and lasting results. Transforming homes across the Las Vegas Valley since 2012.",
+      "aboutTitle": "Built on Expertise, Driven by Results",
+      "aboutText": [
+        "H&L Home Remodeling was founded on a simple principle: deliver exceptional remodeling services with unwavering integrity. We saw a need for a contractor that prioritizes clear communication, meticulous attention to detail, and a commitment to exceeding client expectations. What started as a small team has grown into a leading remodeling company in Las Vegas, built on referrals and repeat business.",
+        "Our approach is straightforward. We listen to your vision, develop a comprehensive plan, and execute it with precision. We understand the challenges of remodeling in the desert climate, from intense UV exposure to the unique soil conditions. We use proven techniques and quality materials to ensure your remodel stands the test of time.",
+        "We're more than just a remodeling company; we're part of the Las Vegas community. We actively support local charities and organizations, and we're committed to sustainable building practices. We believe in giving back to the city that has given us so much."
+      ],
+      "valueProps": [
+        {
+          "title": "Expert Craftsmanship",
+          "description": "Decades of combined experience ensures quality work done right, the first time."
+        },
+        {
+          "title": "Clear Communication",
+          "description": "We keep you informed every step of the way, from initial consultation to final walkthrough."
+        },
+        {
+          "title": "Durable Materials",
+          "description": "We use only the highest quality materials designed to withstand the harsh Nevada climate."
+        },
+        {
+          "title": "Guaranteed Satisfaction",
+          "description": "We stand behind our work. Your satisfaction is our top priority."
+        }
+      ],
+      "ctaHeadline": "Ready to Transform Your Home?",
+      "ctaSubline": "Contact H&L Home Remodeling today for a free consultation and estimate."
+    },
+    "services": [
+      {
+        "slug": "kitchen-remodeling",
+        "name": "Kitchen Remodeling",
+        "shortDescription": "Transform your kitchen into the heart of your Las Vegas home.",
+        "description": "A kitchen remodel is one of the best investments you can make in your home. In Las Vegas, where indoor living is essential for escaping the heat, a functional and beautiful kitchen is key. H&L Home Remodeling specializes in creating custom kitchens tailored to your needs and lifestyle. We handle every aspect of the project, from design and demolition to installation and finishing touches. Whether you're looking for a modern, minimalist design or a warm, traditional space, we'll bring your vision to life. We're experienced in working with the unique challenges of Vegas homes, from outdated plumbing to the need for high-efficiency appliances that can handle the summer heat. We also offer cabinet refacing and countertop replacements as a cost-effective way to update your kitchen without a full remodel.\n\nWe understand the importance of minimizing disruption during a kitchen remodel. Our team works efficiently and respectfully, ensuring a clean and safe job site. We'll keep you informed throughout the process, addressing any questions or concerns promptly. We source our materials from trusted suppliers, guaranteeing quality and durability. From custom cabinetry to energy-efficient appliances, we'll help you create a kitchen that is both beautiful and functional, adding value to your home for years to come. Let H&L Home Remodeling transform your kitchen into a space you'll love to cook, entertain, and gather in.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your vision, budget, and timeline to create a detailed design plan.",
+          "Step 2: Material Selection – Choose from a wide range of high-quality materials, from cabinets and countertops to flooring and fixtures.",
+          "Step 3: Demolition and Construction – Our team handles all demolition and construction with precision and care.",
+          "Step 4: Installation and Finishing – We complete the installation of all selected materials and ensure a flawless finish."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality",
+          "Enhanced Aesthetics",
+          "Energy Efficiency"
+        ],
+        "faq": [
+          {
+            "question": "How long does a typical kitchen remodel take?",
+            "answer": "The timeline varies depending on the scope of the project, but most kitchen remodels take between 4-8 weeks. We'll provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "Do you offer financing options?",
+            "answer": "Yes, we partner with several reputable lenders to offer flexible financing options to our clients. Contact us to learn more about available programs."
+          },
+          {
+            "question": "Can you help with the design process?",
+            "answer": "Absolutely! Our experienced designers will work closely with you to create a kitchen that reflects your style and meets your needs. We'll provide 3D renderings to help you visualize the final result."
+          }
+        ]
+      },
+      {
+        "slug": "bathroom-remodeling",
+        "name": "Bathroom Remodeling",
+        "shortDescription": "Create a spa-like oasis in your Las Vegas home with our bathroom remodeling services.",
+        "description": "In the dry desert climate of Las Vegas, a well-designed bathroom is more than just a functional space; it's a retreat. H&L Home Remodeling specializes in creating luxurious and functional bathrooms that enhance your daily life. From minor updates to complete overhauls, we handle every aspect of the bathroom remodeling process. We understand the unique challenges of Vegas bathrooms, from dealing with hard water stains to maximizing space in older homes. We offer a wide range of services, including custom vanities, shower and tub replacements, tile work, and plumbing upgrades.\n\nWe prioritize water conservation and offer solutions to reduce your water bill without sacrificing comfort. We also understand the importance of ventilation in preventing mold and mildew, especially during the hot summer months. Our team is experienced in working with a variety of materials, from natural stone to durable, low-maintenance options. We'll help you select the perfect finishes to create a bathroom that is both beautiful and practical. We use proven techniques and quality materials that stand up to the test of time. Let H&L Home Remodeling transform your bathroom into a private sanctuary where you can relax and rejuvenate.",
+        "process": [
+          "Step 1: Consultation and Planning – We discuss your needs, budget, and style preferences.",
+          "Step 2: Design and Material Selection – We create a custom design and help you choose the perfect materials.",
+          "Step 3: Demolition and Reconstruction – We carefully remove existing fixtures and rebuild the space.",
+          "Step 4: Plumbing and Electrical – We ensure all plumbing and electrical work is up to code.",
+          "Step 5: Finishing Touches – We install fixtures, paint, and add the final touches to complete your bathroom."
+        ],
+        "benefits": [
+          "Increased Comfort",
+          "Improved Functionality",
+          "Enhanced Style",
+          "Higher Home Value"
+        ],
+        "faq": [
+          {
+            "question": "What type of permits are required for a bathroom remodel?",
+            "answer": "Permit requirements vary depending on the scope of the project. We'll handle all necessary permits and ensure your remodel complies with local building codes."
+          },
+          {
+            "question": "Can you help me choose the right fixtures and materials?",
+            "answer": "Yes, our experienced designers will guide you through the selection process, helping you choose fixtures and materials that are both stylish and durable."
+          },
+          {
+            "question": "How can I save money on my bathroom remodel?",
+            "answer": "We can help you identify cost-effective solutions without sacrificing quality. Consider refacing cabinets, using stock vanities, and choosing affordable tile options."
+          }
+        ]
+      },
+      {
+        "slug": "whole-home-remodeling",
+        "name": "Whole Home Remodeling",
+        "shortDescription": "Transform your entire Las Vegas home with our comprehensive remodeling services.",
+        "description": "Is your Las Vegas home feeling outdated or cramped? A whole-home remodel is the perfect way to create a space that truly reflects your style and meets your needs. H&L Home Remodeling specializes in comprehensive home renovations, transforming outdated houses into modern, functional living spaces. We handle every aspect of the project, from initial design to final walkthrough. We understand the unique challenges of remodeling older Vegas homes, from dealing with outdated electrical systems to improving energy efficiency.\n\nWe work closely with you to develop a detailed plan that addresses your specific goals and budget. Whether you're looking to expand your living space, update your kitchen and bathrooms, or improve your home's curb appeal, we have the expertise to bring your vision to life. We understand the importance of minimizing disruption during a whole-home remodel. Our team works efficiently and respectfully, ensuring a clean and safe job site. We'll keep you informed throughout the process, addressing any questions or concerns promptly. With H&L Home Remodeling, your dream home is within reach.",
+        "process": [
+          "Step 1: Initial Consultation and Planning – We meet with you to discuss your vision, budget, and timeline.",
+          "Step 2: Design Development – We create detailed design plans, including floor plans, elevations, and 3D renderings.",
+          "Step 3: Permitting and Approvals – We handle all necessary permits and approvals.",
+          "Step 4: Construction and Project Management – Our experienced team manages every aspect of the construction process.",
+          "Step 5: Final Walkthrough and Completion – We conduct a final walkthrough to ensure your complete satisfaction."
+        ],
+        "benefits": [
+          "Increased Home Value",
+          "Improved Functionality and Flow",
+          "Enhanced Aesthetics",
+          "Personalized Living Space"
+        ],
+        "faq": [
+          {
+            "question": "How long does a whole-home remodel typically take?",
+            "answer": "The timeline varies depending on the scope of the project, but most whole-home remodels take between 3-6 months. We'll provide a detailed timeline during the consultation phase."
+          },
+          {
+            "question": "How much does a whole-home remodel cost?",
+            "answer": "The cost depends on the size of your home, the scope of the project, and the materials you choose. We'll provide a detailed estimate after the initial consultation."
+          },
+          {
+            "question": "Do I need to move out during the remodel?",
+            "answer": "It depends on the scope of the project. We'll discuss your living arrangements during the consultation phase and provide recommendations based on your specific needs."
+          }
+        ]
+      },
+      {
+        "slug": "room-additions",
+        "name": "Room Additions",
+        "shortDescription": "Expand your living space with our seamless room addition services in Las Vegas.",
+        "description": "Need more space in your Las Vegas home? H&L Home Remodeling specializes in designing and building seamless room additions that blend perfectly with your existing structure. Whether you're looking to add a new bedroom, a home office, or a larger living room, we have the expertise to bring your vision to life. We understand the unique challenges of building in the desert climate, from dealing with extreme heat to ensuring proper insulation. We handle every aspect of the project, from initial design to final inspection.\n\nWe work closely with you to develop a plan that meets your specific needs and budget. We'll consider factors such as your home's existing architecture, your landscaping, and your neighborhood's building codes. We use high-quality materials that are designed to withstand the harsh Vegas climate. Our team is experienced in all aspects of construction, including framing, roofing, electrical, and plumbing. We'll ensure that your room addition is built to code and meets your expectations. Adding square footage to your home is a significant investment, and we're committed to delivering exceptional results.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, budget, and design preferences.",
+          "Step 2: Permitting and Approvals – We handle all necessary permits and approvals.",
+          "Step 3: Foundation and Framing – We build a solid foundation and frame the new structure.",
+          "Step 4: Electrical and Plumbing – We install all electrical and plumbing systems.",
+          "Step 5: Insulation and Finishing – We insulate the walls and ceiling and add the finishing touches."
+        ],
+        "benefits": [
+          "Increased Living Space",
+          "Improved Home Value",
+          "Enhanced Functionality",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "What permits are required for a room addition?",
+            "answer": "Permit requirements vary depending on the size and scope of the project. We'll handle all necessary permits and ensure your addition complies with local building codes."
+          },
+          {
+            "question": "How long does it take to build a room addition?",
+            "answer": "The timeline varies depending on the size and complexity of the project, but most room additions take between 2-4 months."
+          },
+          {
+            "question": "How much does a room addition cost?",
+            "answer": "The cost depends on the size, complexity, and materials used. We'll provide a detailed estimate after the initial consultation."
+          }
+        ]
+      },
+      {
+        "slug": "exterior-remodeling",
+        "name": "Exterior Remodeling",
+        "shortDescription": "Boost your home's curb appeal and protect it from the Vegas weather with our exterior remodeling services.",
+        "description": "Your home's exterior is the first impression it makes. In Las Vegas, where the sun beats down relentlessly and dust storms are common, it's essential to have a durable and attractive exterior. H&L Home Remodeling specializes in exterior renovations that enhance your home's curb appeal and protect it from the elements. We offer a wide range of services, including siding replacement, stucco repair, painting, window and door replacement, and patio covers.\n\nWe understand the importance of using materials that can withstand the harsh Vegas climate. We offer a variety of durable siding options, including vinyl, fiber cement, and wood. We also provide stucco repair services to address cracks and damage caused by the sun and heat. Our painting services use high-quality paints that are resistant to fading and peeling. We offer energy-efficient windows and doors that can help lower your energy bills. Let H&L Home Remodeling transform your home's exterior into a showpiece that you'll be proud of.",
+        "process": [
+          "Step 1: Consultation and Assessment – We evaluate your home's exterior and discuss your goals and budget.",
+          "Step 2: Design and Material Selection – We help you choose the right materials and design elements.",
+          "Step 3: Preparation and Protection – We prepare the surfaces and protect your landscaping.",
+          "Step 4: Installation and Repair – We install new siding, windows, and doors and repair any existing damage.",
+          "Step 5: Painting and Finishing – We paint the exterior and add the finishing touches."
+        ],
+        "benefits": [
+          "Enhanced Curb Appeal",
+          "Increased Home Value",
+          "Improved Energy Efficiency",
+          "Protection from the Elements"
+        ],
+        "faq": [
+          {
+            "question": "What type of siding is best for Las Vegas homes?",
+            "answer": "Fiber cement siding is a popular choice for Las Vegas homes due to its durability and resistance to heat and pests."
+          },
+          {
+            "question": "How often should I paint my home's exterior?",
+            "answer": "In Las Vegas, it's recommended to paint your home's exterior every 5-7 years due to the harsh sun and weather conditions."
+          },
+          {
+            "question": "Can you help me choose energy-efficient windows?",
+            "answer": "Yes, we can help you select energy-efficient windows that will lower your energy bills and improve your home's comfort."
+          }
+        ]
+      },
+      {
+        "slug": "patio-covers-pergolas",
+        "name": "Patio Covers & Pergolas",
+        "shortDescription": "Create shade and extend your outdoor living space with our custom patio covers and pergolas.",
+        "description": "In Las Vegas, enjoying the outdoors requires strategic shade solutions. H&L Home Remodeling specializes in building custom patio covers and pergolas that provide shade and extend your outdoor living space. Whether you're looking for a simple shade structure or a fully enclosed patio, we can create a design that meets your needs and complements your home's architecture. We offer a variety of materials, including wood, aluminum, and vinyl. We also offer a range of styles, from traditional pergolas to modern, minimalist patio covers.\n\nWe understand the importance of proper ventilation and drainage in the desert climate. We'll ensure that your patio cover or pergola is designed to withstand the harsh Vegas weather and provide comfortable shade. We also offer lighting and ceiling fan options to enhance your outdoor living experience. Let H&L Home Remodeling help you create the perfect outdoor oasis where you can relax and entertain year-round. From design to installation, we handle it all.",
+        "process": [
+          "Step 1: Consultation and Design – We discuss your needs, budget, and design preferences.",
+          "Step 2: Permitting and Approvals – We handle all necessary permits and approvals.",
+          "Step 3: Foundation and Framing – We build a solid foundation and frame the structure.",
+          "Step 4: Roofing and Finishing – We install the roofing material and add the finishing touches.",
+          "Step 5: Electrical and Lighting – We install electrical wiring and lighting fixtures (optional)."
+        ],
+        "benefits": [
+          "Increased Outdoor Living Space",
+          "Protection from the Sun",
+          "Enhanced Curb Appeal",
+          "Customized Design"
+        ],
+        "faq": [
+          {
+            "question": "What type of patio cover is best for Las Vegas?",
+            "answer": "Aluminum patio covers are a popular choice for Las Vegas due to their durability and resistance to heat and pests."
+          },
+          {
+            "question": "Do I need a permit for a patio cover?",
+            "answer": "Yes, most patio covers require a permit. We'll handle all necessary permits and ensure your project complies with local building codes."
+          },
+          {
+            "question": "Can you add electrical outlets and lighting to my patio cover?",
+            "answer": "Yes, we can add electrical outlets and lighting to your patio cover to enhance your outdoor living experience."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Henderson",
+        "slug": "henderson-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC is proud to offer our comprehensive remodeling services to the residents of Henderson, Nevada. Known for its master-planned communities developed primarily from the 1990s through the 2020s, Henderson offers a diverse range of housing styles, and we're equipped to handle renovations and upgrades for any home, from single-family residences to townhouses and condos.\n\nWe understand the unique challenges of remodeling in the desert climate, particularly the extreme summer heat that often exceeds 115°F. Our team utilizes materials and techniques designed to withstand these conditions, ensuring the longevity and durability of your remodeling project. Whether you're looking to update your kitchen, bathroom, or entire home, H&L Home Remodeling LLC is committed to providing exceptional craftsmanship and customer service in Henderson.",
+        "localContext": "Henderson is characterized by its numerous master-planned communities, offering a variety of housing options and community amenities, and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Paradise",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "North Las Vegas",
+        "slug": "north-las-vegas-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC extends its expert remodeling services to North Las Vegas, Nevada. This rapidly growing city features a significant amount of affordable, newer construction, making it an ideal location for homeowners looking to personalize and upgrade their living spaces. We specialize in transforming these newer homes into customized havens that reflect your individual style and needs.\n\nLike the rest of the Las Vegas Valley, North Las Vegas experiences extreme summer heat, often exceeding 115°F. Our team is experienced in selecting and installing energy-efficient materials and designs that help keep your home cool and comfortable year-round. From kitchen and bathroom renovations to whole-house remodels, H&L Home Remodeling LLC is dedicated to providing quality workmanship and exceptional service in North Las Vegas.",
+        "localContext": "North Las Vegas is known for its affordable, newer construction and its location within the Mojave Desert, leading to very high summer temperatures.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Sunrise Manor",
+          "Nellis AFB"
+        ]
+      },
+      {
+        "city": "Summerlin",
+        "slug": "summerlin-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC is proud to serve the upscale community of Summerlin, Nevada. Developed primarily from the 1990s through the 2020s, Summerlin is a master-planned community known for its beautiful homes, parks, and amenities. We understand the high standards of Summerlin residents and are committed to providing remodeling services that meet and exceed those expectations.\n\nWe are familiar with the unique architectural styles found in Summerlin and can seamlessly integrate your remodeling project with the existing aesthetic of your home and neighborhood. The extreme summer heat, often exceeding 115°F, is also a consideration, and we use materials and techniques that are both durable and energy-efficient. From luxurious kitchen and bathroom upgrades to complete home renovations, H&L Home Remodeling LLC is your trusted partner for remodeling in Summerlin.",
+        "localContext": "Summerlin is an upscale master-planned community with high property values and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Peccole Ranch",
+          "The Lakes"
+        ]
+      },
+      {
+        "city": "Las Vegas",
+        "slug": "las-vegas-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC is based in and proudly serves the vibrant city of Las Vegas, Nevada. From the historic neighborhoods downtown to the sprawling suburbs, we offer a full range of remodeling services to meet the diverse needs of Las Vegas homeowners. Whether you're looking to update a classic mid-century modern home or modernize a newer property, we have the expertise and experience to bring your vision to life.\n\nWe understand the unique challenges of remodeling in the Las Vegas climate, including the intense summer heat and occasional dust storms. Our team utilizes durable, energy-efficient materials and construction techniques to ensure your remodeled home is both beautiful and functional for years to come. From kitchen and bathroom renovations to whole-house remodels and additions, H&L Home Remodeling LLC is committed to providing exceptional craftsmanship and customer service throughout Las Vegas.",
+        "localContext": "Las Vegas is a large and diverse city with a wide range of architectural styles and a hot, arid climate.",
+        "nearbyAreas": [
+          "Paradise",
+          "Spring Valley",
+          "Sunrise Manor"
+        ]
+      },
+      {
+        "city": "Paradise",
+        "slug": "paradise-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC is pleased to offer our remodeling services to the residents of Paradise, Nevada, home to the world-famous Las Vegas Strip and McCarran International Airport. Paradise features a mix of residential neighborhoods, hotels, and commercial areas, presenting unique remodeling opportunities and challenges. We are experienced in working with a variety of property types and are committed to providing innovative solutions that meet your specific needs.\n\nWe understand the importance of minimizing disruption during remodeling projects, especially in a busy area like Paradise. Our team works efficiently and professionally to ensure your project is completed on time and within budget. We are also mindful of the extreme summer heat and utilize materials and techniques that enhance energy efficiency and comfort. Whether you're looking to update your condo, remodel your home, or improve your business space, H&L Home Remodeling LLC is your trusted partner in Paradise.",
+        "localContext": "Paradise is an unincorporated town that contains the Las Vegas Strip and McCarran International Airport, experiencing heavy tourism and extreme heat.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Winchester",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Spring Valley",
+        "slug": "spring-valley-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC provides top-notch remodeling services to homeowners in Spring Valley, Nevada. This large, unincorporated town offers a diverse range of housing options, from established neighborhoods to newer developments. We specialize in tailoring our remodeling services to match the unique character and style of each home in Spring Valley.\n\nWe understand the importance of creating functional and beautiful living spaces that meet the needs of modern families. Our team works closely with you to understand your vision and develop a remodeling plan that reflects your personal style and budget. We also take into account the challenges of the desert climate, using durable and energy-efficient materials to ensure your remodeled home is comfortable and sustainable. From kitchen and bathroom renovations to whole-house remodels, H&L Home Remodeling LLC is your trusted partner in Spring Valley.",
+        "localContext": "Spring Valley is a large, unincorporated town with diverse housing options and experiences the desert climate.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "Summerlin South",
+          "Enterprise"
+        ]
+      },
+      {
+        "city": "Enterprise",
+        "slug": "enterprise-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC extends its premier remodeling services to the growing community of Enterprise, Nevada. Known for its newer residential developments and convenient access to the Las Vegas Strip, Enterprise offers a blend of modern living and urban amenities. We are committed to helping homeowners in Enterprise create the homes of their dreams through our expert remodeling services.\n\nOur team understands the importance of staying up-to-date with the latest design trends and construction techniques. We utilize innovative solutions and high-quality materials to ensure your remodeling project is both beautiful and functional. We also take into consideration the extreme summer heat and offer energy-efficient options to help you save money on your utility bills. Whether you're looking to remodel your kitchen, bathroom, or entire home, H&L Home Remodeling LLC is your trusted partner in Enterprise.",
+        "localContext": "Enterprise is a rapidly developing area with newer housing and experiences extreme summer heat.",
+        "nearbyAreas": [
+          "Spring Valley",
+          "Paradise",
+          "Henderson"
+        ]
+      },
+      {
+        "city": "Sunrise Manor",
+        "slug": "sunrise-manor-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC proudly serves the residents of Sunrise Manor, Nevada, offering comprehensive remodeling services tailored to the unique needs of this established community. Sunrise Manor features a mix of housing styles and ages, from older, well-maintained homes to newer developments. We are experienced in working with a variety of property types and are committed to providing personalized solutions that enhance your living space.\n\nWe understand the importance of respecting the character of existing homes while incorporating modern updates and amenities. Our team works closely with you to develop a remodeling plan that reflects your personal style and budget. We also take into account the challenges of the desert climate, using durable and energy-efficient materials to ensure your remodeled home is comfortable and sustainable. From kitchen and bathroom renovations to whole-house remodels, H&L Home Remodeling LLC is your trusted partner in Sunrise Manor.",
+        "localContext": "Sunrise Manor is an established community with a mix of housing styles and experiences the desert climate.",
+        "nearbyAreas": [
+          "Las Vegas",
+          "North Las Vegas",
+          "Whitney"
+        ]
+      },
+      {
+        "city": "Whitney",
+        "slug": "whitney-nv",
+        "state": "NV",
+        "content": "H&L Home Remodeling LLC offers expert remodeling services to homeowners in Whitney, Nevada. This community features a variety of housing options and is conveniently located near major transportation routes and employment centers. We are dedicated to helping Whitney residents transform their homes into beautiful and functional living spaces.\n\nOur team understands the importance of providing reliable and affordable remodeling services. We work closely with you to develop a remodeling plan that meets your specific needs and budget. We also take into account the desert climate and utilize materials and techniques that enhance energy efficiency and durability. Whether you're looking to update your kitchen, bathroom, or entire home, H&L Home Remodeling LLC is your trusted partner in Whitney.",
+        "localContext": "Whitney is a conveniently located community with various housing options and experiences the desert climate.",
+        "nearbyAreas": [
+          "Henderson",
+          "Sunrise Manor",
+          "Las Vegas"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Maria S.",
+        "rating": 5,
+        "service": "Kitchen Remodel",
+        "text": "H&L Home Remodeling completely transformed my outdated kitchen. They listened to my ideas and created a beautiful and functional space that I absolutely love. The team was professional, efficient, and always kept me informed throughout the process. Highly recommend!",
+        "date": "2025-03-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Bathroom Remodel",
+        "text": "We hired H&L to remodel our master bathroom. The results were fantastic, exceeding our expectations. There were a couple of minor delays due to material availability, but the team communicated proactively and kept us in the loop. Overall, a great experience.",
+        "date": "2025-02-28"
+      },
+      {
+        "name": "Lisa P.",
+        "rating": 5,
+        "service": "Whole Home Remodel",
+        "text": "This was a huge project - remodeling our entire 1970s home in the Scotch 80s neighborhood. H&L handled it with professionalism and skill. They helped us modernize the space while maintaining its original charm. The team was responsive, and the quality of workmanship was outstanding.",
+        "date": "2024-12-10"
+      },
+      {
+        "name": "Robert M.",
+        "rating": 5,
+        "service": "Patio Cover Installation",
+        "text": "H&L Home Remodeling built a fantastic patio cover for our backyard. It provides much-needed shade during the hot summer months, and it looks great! The team was efficient, courteous, and cleaned up thoroughly after the job was done. I highly recommend them.",
+        "date": "2024-11-05"
+      },
+      {
+        "name": "Jennifer L.",
+        "rating": 4,
+        "service": "Exterior Painting",
+        "text": "H&L did a great job painting the exterior of our house. They were meticulous in their preparation and applied two coats of high-quality paint. The house looks brand new! The only reason I'm not giving them 5 stars is that the project took a little longer than expected.",
+        "date": "2024-10-20"
+      },
+      {
+        "name": "Michael B.",
+        "rating": 5,
+        "service": "Room Addition",
+        "text": "We added a new bedroom to our home, and H&L Home Remodeling did an excellent job. The addition blends seamlessly with the existing structure, and the quality of workmanship is top-notch. The team was professional, reliable, and easy to work with.",
+        "date": "2024-09-15"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "Las Vegas Remodeling Contractor | H&L Remodeling",
+        "description": "Expert remodeling services in Las Vegas, NV. Kitchens, bathrooms, whole homes, and more. Call H&L Home Remodeling for a free quote!"
+      },
+      "about": {
+        "title": "About H&L Home Remodeling | Las Vegas, NV",
+        "description": "Learn about H&L Home Remodeling, a trusted remodeling contractor in Las Vegas. Our mission, values, and commitment to quality."
+      },
+      "services": {
+        "title": "Las Vegas Remodeling Services | H&L Remodeling",
+        "description": "Comprehensive remodeling services in Las Vegas, NV. Kitchen remodeling, bathroom remodeling, whole home renovations."
+      },
+      "contact": {
+        "title": "Contact H&L Home Remodeling | Las Vegas, NV",
+        "description": "Contact H&L Home Remodeling for expert remodeling services in Las Vegas. Get a free quote today!"
+      },
+      "reviews": {
+        "title": "H&L Home Remodeling Reviews | Las Vegas, NV",
+        "description": "Read reviews from satisfied H&L Home Remodeling customers in Las Vegas. See our commitment to quality and customer satisfaction."
+      },
+      "service-areas": {
+        "title": "H&L Remodeling Service Areas",
+        "description": "H&L Home Remodeling provides remodeling services throughout the Las Vegas Valley. Serving Henderson, Summerlin, North Las Vegas"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "kitchen-remodeling": "/images/service-kitchen-remodeling.webp",
+      "bathroom-remodeling": "/images/service-bathroom-remodeling.webp",
+      "whole-home-remodeling": "/images/service-whole-home-remodeling.webp",
+      "room-additions": "/images/service-room-additions.webp",
+      "exterior-remodeling": "/images/service-exterior-remodeling.webp",
+      "patio-covers-pergolas": "/images/service-patio-covers-pergolas.webp"
+    },
+    "servicesResponsive": {
+      "kitchen-remodeling": {
+        "src": "/images/service-kitchen-remodeling.webp",
+        "srcset": "/images/service-kitchen-remodeling-400w.webp 400w, /images/service-kitchen-remodeling-800w.webp 800w, /images/service-kitchen-remodeling-1200w.webp 1200w, /images/service-kitchen-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "bathroom-remodeling": {
+        "src": "/images/service-bathroom-remodeling.webp",
+        "srcset": "/images/service-bathroom-remodeling-400w.webp 400w, /images/service-bathroom-remodeling-800w.webp 800w, /images/service-bathroom-remodeling-1200w.webp 1200w, /images/service-bathroom-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "whole-home-remodeling": {
+        "src": "/images/service-whole-home-remodeling.webp",
+        "srcset": "/images/service-whole-home-remodeling-400w.webp 400w, /images/service-whole-home-remodeling-800w.webp 800w, /images/service-whole-home-remodeling-1200w.webp 1200w, /images/service-whole-home-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "room-additions": {
+        "src": "/images/service-room-additions.webp",
+        "srcset": "/images/service-room-additions-400w.webp 400w, /images/service-room-additions-800w.webp 800w, /images/service-room-additions-1200w.webp 1200w, /images/service-room-additions.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "exterior-remodeling": {
+        "src": "/images/service-exterior-remodeling.webp",
+        "srcset": "/images/service-exterior-remodeling-400w.webp 400w, /images/service-exterior-remodeling-800w.webp 800w, /images/service-exterior-remodeling-1200w.webp 1200w, /images/service-exterior-remodeling.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "patio-covers-pergolas": {
+        "src": "/images/service-patio-covers-pergolas.webp",
+        "srcset": "/images/service-patio-covers-pergolas-400w.webp 400w, /images/service-patio-covers-pergolas-800w.webp 800w, /images/service-patio-covers-pergolas-1200w.webp 1200w, /images/service-patio-covers-pergolas.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
